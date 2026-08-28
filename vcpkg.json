@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "abseil",
+    "protobuf",
+    "utf8-range",
+    "nlohmann-json"
+  ]
+}
